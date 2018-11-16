@@ -35,7 +35,7 @@ or
 
 or
 
-`python zen.py https://github.com/orgs/organzation`
+`python zen.py https://github.com/orgs/organization`
 
 #### Save JSON output to a file
 `python zen.py https://github.com/username/repository -o /path/to/file`
